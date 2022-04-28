@@ -7,4 +7,4 @@ created a simple code that takes input from user like where were you born and yo
 created another code where i built a tip calculator
 
 #day 3
-created a basic love calculator which counts TRUE LOVE occurence in both entered names and concatenated the sum into a Love Number.
+created a basic love calculator which counts TRUE LOVE occurence in both entered names and concatenated the sum into a Love Number And created a game called treasure island where user has to select options carefully otherwise, beware of YOU MAY RISK YOUR LIFE!!!!
